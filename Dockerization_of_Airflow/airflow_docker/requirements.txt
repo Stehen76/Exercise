@@ -1,0 +1,6 @@
+#conda
+pandas
+numpy
+scikit-learn
+mlflow==1.2.0
+matplotlib
