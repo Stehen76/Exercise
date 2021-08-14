@@ -1,0 +1,10 @@
+re
+nltk
+spacy
+string
+torch
+google_bing_trans
+summarizer
+from nltk.corpus
+transformers
+multi_rake
